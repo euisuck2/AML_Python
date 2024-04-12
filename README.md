@@ -1,5 +1,5 @@
 
-# Statistical Approach for AML Threshold Tuning with Python
+# AML Threshold Tuning with Python
 
 This notebook presents a thorough analysis of anti-money laundering (AML) strategies using Python. It demonstrates data handling, exploratory data analysis, and the application of statistical methods to determine optimal thresholds for transaction monitoring.
 
